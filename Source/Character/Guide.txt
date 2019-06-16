@@ -1,0 +1,11 @@
+                              GUIDE:
+
+            How to control:
+Use UP DOWN LEFT RIGHT or"A" "D" "W" "S"  to move the "fat-cat"
+ from the side walk across the street. If you hit animals or vehicals 
+on street, you will die (T-T).
+
+
+
+
+ Press "Enter" to go back to the main menu. Good Luck !!!

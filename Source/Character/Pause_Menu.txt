@@ -1,0 +1,13 @@
+       
+
+ 
+ 
+CONTINUE
+SAVE GAME
+LOAD GAME
+GUIDE
+MAIN MENU
+ 
+ 
+
+         
